@@ -1,0 +1,535 @@
+15:46:17.093 [main] INFO  testCases.TS_001_SimpleForm - *** Starting TS_001_SimpleForm ***
+15:46:20.486 [main] INFO  testCases.TS_001_SimpleForm - Clicked on Simple Form Demo
+15:46:23.686 [main] INFO  testCases.TS_001_SimpleForm - Clicked Get Checked Value
+15:46:23.722 [main] INFO  testCases.TS_001_SimpleForm - *** Finished TS_001_SimpleForm ***
+21:40:48.878 [TestNG-tests-1] INFO  testCases.TS_001_SimpleForm - *** Starting TS_001_SimpleForm ***
+21:40:50.942 [TestNG-tests-1] INFO  testCases.TS_001_SimpleForm - Clicked on Simple Form Demo
+21:40:54.100 [TestNG-tests-1] INFO  testCases.TS_001_SimpleForm - Clicked Get Checked Value
+21:40:54.127 [TestNG-tests-1] INFO  testCases.TS_001_SimpleForm - *** Finished TS_001_SimpleForm ***
+21:40:55.930 [TestNG-tests-1] INFO  testCases.TS_002_SliderDemo - *** Starting TS_002_SliderDemo ***
+21:40:59.739 [TestNG-tests-1] INFO  testCases.TS_002_SliderDemo - Clicked on Drag & Drop Sliders
+21:41:00.222 [TestNG-tests-1] INFO  testCases.TS_002_SliderDemo - *** Finished TS_002_SliderDemo ***
+21:41:03.904 [TestNG-tests-1] INFO  testCases.TS_003_FormDemo - *** Starting TS_003_FormDemo ***
+21:41:07.786 [TestNG-tests-1] INFO  testCases.TS_003_FormDemo - Clicked on Input Form Submit
+21:41:07.856 [TestNG-tests-1] INFO  testCases.TS_003_FormDemo - Clicked on Submit button
+21:41:08.782 [TestNG-tests-1] INFO  testCases.TS_003_FormDemo - *** Finished TS_003_FormDemo ***
+21:42:24.054 [TestNG-tests-2] INFO  testCases.TS_001_SimpleForm - *** Starting TS_001_SimpleForm ***
+21:42:24.909 [TestNG-tests-2] INFO  testCases.TS_001_SimpleForm - Clicked on Simple Form Demo
+21:42:28.191 [TestNG-tests-2] INFO  testCases.TS_001_SimpleForm - Clicked Get Checked Value
+21:42:28.245 [TestNG-tests-2] INFO  testCases.TS_001_SimpleForm - *** Finished TS_001_SimpleForm ***
+21:42:31.993 [TestNG-tests-1] INFO  testCases.TS_002_SliderDemo - *** Starting TS_002_SliderDemo ***
+21:42:32.514 [TestNG-tests-1] INFO  testCases.TS_002_SliderDemo - Clicked on Drag & Drop Sliders
+21:42:32.998 [TestNG-tests-1] INFO  testCases.TS_002_SliderDemo - *** Finished TS_002_SliderDemo ***
+21:42:35.607 [TestNG-tests-1] INFO  testCases.TS_003_FormDemo - *** Starting TS_003_FormDemo ***
+21:42:36.170 [TestNG-tests-1] INFO  testCases.TS_003_FormDemo - Clicked on Input Form Submit
+21:42:36.257 [TestNG-tests-1] INFO  testCases.TS_003_FormDemo - Clicked on Submit button
+21:42:37.424 [TestNG-tests-1] INFO  testCases.TS_003_FormDemo - *** Finished TS_003_FormDemo ***
+21:43:35.011 [TestNG-tests-1] INFO  testCases.TS_001_SimpleForm - *** Starting TS_001_SimpleForm ***
+21:43:36.033 [TestNG-tests-1] INFO  testCases.TS_001_SimpleForm - Clicked on Simple Form Demo
+21:43:38.492 [TestNG-tests-2] INFO  testCases.TS_001_SimpleForm - *** Starting TS_001_SimpleForm ***
+21:43:38.898 [TestNG-tests-2] INFO  testCases.TS_001_SimpleForm - Clicked on Simple Form Demo
+21:43:42.181 [TestNG-tests-2] ERROR testCases.TS_001_SimpleForm - test failed
+21:43:44.115 [TestNG-tests-1] INFO  testCases.TS_002_SliderDemo - *** Starting TS_002_SliderDemo ***
+21:43:44.374 [TestNG-tests-1] INFO  testCases.TS_002_SliderDemo - Clicked on Drag & Drop Sliders
+21:43:44.915 [TestNG-tests-1] INFO  testCases.TS_002_SliderDemo - *** Finished TS_002_SliderDemo ***
+21:43:46.641 [TestNG-tests-1] INFO  testCases.TS_003_FormDemo - *** Starting TS_003_FormDemo ***
+21:43:47.034 [TestNG-tests-1] INFO  testCases.TS_003_FormDemo - Clicked on Input Form Submit
+21:43:47.107 [TestNG-tests-1] INFO  testCases.TS_003_FormDemo - Clicked on Submit button
+21:43:48.094 [TestNG-tests-1] INFO  testCases.TS_003_FormDemo - *** Finished TS_003_FormDemo ***
+21:44:29.350 [TestNG-tests-2] INFO  testCases.TS_001_SimpleForm - *** Starting TS_001_SimpleForm ***
+21:44:30.329 [TestNG-tests-2] INFO  testCases.TS_001_SimpleForm - Clicked on Simple Form Demo
+21:44:33.473 [TestNG-tests-2] INFO  testCases.TS_001_SimpleForm - Clicked Get Checked Value
+21:44:33.502 [TestNG-tests-2] INFO  testCases.TS_001_SimpleForm - *** Finished TS_001_SimpleForm ***
+21:44:35.360 [TestNG-tests-2] INFO  testCases.TS_002_SliderDemo - *** Starting TS_002_SliderDemo ***
+21:44:35.600 [TestNG-tests-2] INFO  testCases.TS_002_SliderDemo - Clicked on Drag & Drop Sliders
+21:44:36.121 [TestNG-tests-2] INFO  testCases.TS_002_SliderDemo - *** Finished TS_002_SliderDemo ***
+21:44:40.439 [TestNG-tests-2] INFO  testCases.TS_003_FormDemo - *** Starting TS_003_FormDemo ***
+21:44:41.165 [TestNG-tests-2] INFO  testCases.TS_003_FormDemo - Clicked on Input Form Submit
+21:44:41.235 [TestNG-tests-2] INFO  testCases.TS_003_FormDemo - Clicked on Submit button
+21:44:42.199 [TestNG-tests-2] INFO  testCases.TS_003_FormDemo - *** Finished TS_003_FormDemo ***
+21:44:58.886 [TestNG-tests-1] INFO  testCases.TS_001_SimpleForm - *** Starting TS_001_SimpleForm ***
+21:44:59.968 [TestNG-tests-1] INFO  testCases.TS_001_SimpleForm - Clicked on Simple Form Demo
+21:45:00.122 [TestNG-tests-2] INFO  testCases.TS_001_SimpleForm - *** Starting TS_001_SimpleForm ***
+21:45:02.664 [TestNG-tests-2] INFO  testCases.TS_001_SimpleForm - Clicked on Simple Form Demo
+21:45:03.468 [TestNG-tests-2] ERROR testCases.TS_001_SimpleForm - test failed
+21:45:07.362 [TestNG-tests-1] INFO  testCases.TS_002_SliderDemo - *** Starting TS_002_SliderDemo ***
+21:45:07.825 [TestNG-tests-1] INFO  testCases.TS_002_SliderDemo - Clicked on Drag & Drop Sliders
+21:45:08.303 [TestNG-tests-1] INFO  testCases.TS_002_SliderDemo - *** Finished TS_002_SliderDemo ***
+21:45:09.924 [TestNG-tests-1] INFO  testCases.TS_003_FormDemo - *** Starting TS_003_FormDemo ***
+21:45:10.590 [TestNG-tests-1] INFO  testCases.TS_003_FormDemo - Clicked on Input Form Submit
+21:45:10.667 [TestNG-tests-1] INFO  testCases.TS_003_FormDemo - Clicked on Submit button
+21:45:11.769 [TestNG-tests-1] INFO  testCases.TS_003_FormDemo - *** Finished TS_003_FormDemo ***
+21:45:42.091 [TestNG-tests-1] INFO  testCases.TS_001_SimpleForm - *** Starting TS_001_SimpleForm ***
+21:45:42.776 [TestNG-tests-1] INFO  testCases.TS_001_SimpleForm - Clicked on Simple Form Demo
+21:47:13.579 [TestNG-tests-2] INFO  testCases.TS_001_SimpleForm - *** Starting TS_001_SimpleForm ***
+21:47:14.875 [TestNG-tests-2] INFO  testCases.TS_001_SimpleForm - Clicked on Simple Form Demo
+21:47:18.934 [TestNG-tests-2] ERROR testCases.TS_001_SimpleForm - test failed
+21:47:20.399 [TestNG-tests-1] INFO  testCases.TS_002_SliderDemo - *** Starting TS_002_SliderDemo ***
+21:47:20.602 [TestNG-tests-1] INFO  testCases.TS_002_SliderDemo - Clicked on Drag & Drop Sliders
+21:47:21.106 [TestNG-tests-1] INFO  testCases.TS_002_SliderDemo - *** Finished TS_002_SliderDemo ***
+21:47:22.568 [TestNG-tests-1] INFO  testCases.TS_003_FormDemo - *** Starting TS_003_FormDemo ***
+21:47:24.750 [TestNG-tests-1] INFO  testCases.TS_003_FormDemo - Clicked on Input Form Submit
+21:47:24.829 [TestNG-tests-1] INFO  testCases.TS_003_FormDemo - Clicked on Submit button
+21:47:25.664 [TestNG-tests-1] INFO  testCases.TS_003_FormDemo - *** Finished TS_003_FormDemo ***
+21:48:44.117 [TestNG-tests-1] INFO  testCases.TS_001_SimpleForm - *** Starting TS_001_SimpleForm ***
+21:48:44.117 [TestNG-tests-2] INFO  testCases.TS_001_SimpleForm - *** Starting TS_001_SimpleForm ***
+21:48:45.537 [TestNG-tests-1] INFO  testCases.TS_001_SimpleForm - Clicked on Simple Form Demo
+21:48:45.549 [TestNG-tests-2] ERROR testCases.TS_001_SimpleForm - test failed
+21:48:48.868 [TestNG-tests-1] INFO  testCases.TS_001_SimpleForm - Clicked Get Checked Value
+21:48:49.855 [TestNG-tests-2] INFO  testCases.TS_002_SliderDemo - *** Starting TS_002_SliderDemo ***
+21:48:50.051 [TestNG-tests-2] INFO  testCases.TS_002_SliderDemo - Clicked on Drag & Drop Sliders
+21:48:50.520 [TestNG-tests-2] INFO  testCases.TS_002_SliderDemo - *** Finished TS_002_SliderDemo ***
+21:48:54.922 [TestNG-tests-2] INFO  testCases.TS_003_FormDemo - *** Starting TS_003_FormDemo ***
+21:49:12.083 [TestNG-tests-2] INFO  testCases.TS_003_FormDemo - Clicked on Input Form Submit
+21:49:12.368 [TestNG-tests-2] INFO  testCases.TS_003_FormDemo - Clicked on Submit button
+21:49:13.238 [TestNG-tests-2] INFO  testCases.TS_003_FormDemo - *** Finished TS_003_FormDemo ***
+21:50:48.823 [TestNG-tests-2] INFO  testCases.TS_001_SimpleForm - *** Starting TS_001_SimpleForm ***
+21:50:48.823 [TestNG-tests-1] INFO  testCases.TS_001_SimpleForm - *** Starting TS_001_SimpleForm ***
+21:50:49.399 [TestNG-tests-2] INFO  testCases.TS_001_SimpleForm - Clicked on Simple Form Demo
+21:50:49.411 [TestNG-tests-1] ERROR testCases.TS_001_SimpleForm - test failed
+21:50:49.875 [TestNG-tests-2] ERROR testCases.TS_001_SimpleForm - test failed
+21:50:51.905 [TestNG-tests-1] INFO  testCases.TS_002_SliderDemo - *** Starting TS_002_SliderDemo ***
+21:50:52.467 [TestNG-tests-1] INFO  testCases.TS_002_SliderDemo - Clicked on Drag & Drop Sliders
+21:50:52.940 [TestNG-tests-1] INFO  testCases.TS_002_SliderDemo - *** Finished TS_002_SliderDemo ***
+21:51:20.641 [TestNG-tests-1] INFO  testCases.TS_003_FormDemo - *** Starting TS_003_FormDemo ***
+21:51:21.300 [TestNG-tests-1] INFO  testCases.TS_003_FormDemo - Clicked on Input Form Submit
+21:51:21.404 [TestNG-tests-1] INFO  testCases.TS_003_FormDemo - Clicked on Submit button
+21:51:22.692 [TestNG-tests-1] INFO  testCases.TS_003_FormDemo - *** Finished TS_003_FormDemo ***
+21:53:24.125 [main] INFO  testCases.TS_001_SimpleForm - *** Starting TS_001_SimpleForm ***
+21:53:26.119 [main] INFO  testCases.TS_001_SimpleForm - Clicked on Simple Form Demo
+21:53:29.264 [main] INFO  testCases.TS_001_SimpleForm - Clicked Get Checked Value
+21:53:29.312 [main] INFO  testCases.TS_001_SimpleForm - *** Finished TS_001_SimpleForm ***
+21:53:36.245 [main] INFO  testCases.TS_002_SliderDemo - *** Starting TS_002_SliderDemo ***
+21:53:36.692 [main] INFO  testCases.TS_002_SliderDemo - Clicked on Drag & Drop Sliders
+21:53:37.198 [main] INFO  testCases.TS_002_SliderDemo - *** Finished TS_002_SliderDemo ***
+21:53:42.962 [main] INFO  testCases.TS_003_FormDemo - *** Starting TS_003_FormDemo ***
+21:53:43.824 [main] INFO  testCases.TS_003_FormDemo - Clicked on Input Form Submit
+21:53:43.889 [main] INFO  testCases.TS_003_FormDemo - Clicked on Submit button
+21:53:44.825 [main] INFO  testCases.TS_003_FormDemo - *** Finished TS_003_FormDemo ***
+21:54:26.166 [main] INFO  testCases.TS_001_SimpleForm - *** Starting TS_001_SimpleForm ***
+21:54:26.847 [main] INFO  testCases.TS_001_SimpleForm - Clicked on Simple Form Demo
+21:54:30.079 [main] INFO  testCases.TS_001_SimpleForm - Clicked Get Checked Value
+21:54:30.120 [main] INFO  testCases.TS_001_SimpleForm - *** Finished TS_001_SimpleForm ***
+21:54:31.849 [main] INFO  testCases.TS_002_SliderDemo - *** Starting TS_002_SliderDemo ***
+21:54:32.087 [main] INFO  testCases.TS_002_SliderDemo - Clicked on Drag & Drop Sliders
+21:54:32.592 [main] INFO  testCases.TS_002_SliderDemo - *** Finished TS_002_SliderDemo ***
+21:54:37.135 [main] INFO  testCases.TS_003_FormDemo - *** Starting TS_003_FormDemo ***
+21:54:37.710 [main] INFO  testCases.TS_003_FormDemo - Clicked on Input Form Submit
+21:54:37.796 [main] INFO  testCases.TS_003_FormDemo - Clicked on Submit button
+21:54:38.810 [main] INFO  testCases.TS_003_FormDemo - *** Finished TS_003_FormDemo ***
+21:55:38.474 [main] INFO  testCases.TS_001_SimpleForm - *** Starting TS_001_SimpleForm ***
+21:55:39.389 [main] INFO  testCases.TS_001_SimpleForm - Clicked on Simple Form Demo
+21:55:42.714 [main] INFO  testCases.TS_001_SimpleForm - Clicked Get Checked Value
+21:55:42.775 [main] INFO  testCases.TS_001_SimpleForm - *** Finished TS_001_SimpleForm ***
+21:55:44.413 [main] INFO  testCases.TS_002_SliderDemo - *** Starting TS_002_SliderDemo ***
+21:55:44.698 [main] INFO  testCases.TS_002_SliderDemo - Clicked on Drag & Drop Sliders
+21:55:45.208 [main] INFO  testCases.TS_002_SliderDemo - *** Finished TS_002_SliderDemo ***
+21:55:46.805 [main] INFO  testCases.TS_003_FormDemo - *** Starting TS_003_FormDemo ***
+21:55:47.717 [main] INFO  testCases.TS_003_FormDemo - Clicked on Input Form Submit
+21:55:47.800 [main] INFO  testCases.TS_003_FormDemo - Clicked on Submit button
+21:55:48.873 [main] INFO  testCases.TS_003_FormDemo - *** Finished TS_003_FormDemo ***
+21:55:51.486 [main] INFO  testCases.TS_001_SimpleForm - *** Starting TS_001_SimpleForm ***
+21:55:52.442 [main] INFO  testCases.TS_001_SimpleForm - Clicked on Simple Form Demo
+21:55:55.579 [main] INFO  testCases.TS_001_SimpleForm - Clicked Get Checked Value
+21:55:55.614 [main] INFO  testCases.TS_001_SimpleForm - *** Finished TS_001_SimpleForm ***
+21:55:57.404 [main] INFO  testCases.TS_002_SliderDemo - *** Starting TS_002_SliderDemo ***
+21:55:57.654 [main] INFO  testCases.TS_002_SliderDemo - Clicked on Drag & Drop Sliders
+21:55:58.114 [main] INFO  testCases.TS_002_SliderDemo - *** Finished TS_002_SliderDemo ***
+21:55:59.579 [main] INFO  testCases.TS_003_FormDemo - *** Starting TS_003_FormDemo ***
+21:56:00.172 [main] INFO  testCases.TS_003_FormDemo - Clicked on Input Form Submit
+21:56:00.239 [main] INFO  testCases.TS_003_FormDemo - Clicked on Submit button
+21:56:01.208 [main] INFO  testCases.TS_003_FormDemo - *** Finished TS_003_FormDemo ***
+21:56:25.482 [TestNG-tests-1] INFO  testCases.TS_001_SimpleForm - *** Starting TS_001_SimpleForm ***
+21:56:26.419 [TestNG-tests-1] INFO  testCases.TS_001_SimpleForm - Clicked on Simple Form Demo
+21:56:27.729 [TestNG-tests-2] INFO  testCases.TS_001_SimpleForm - *** Starting TS_001_SimpleForm ***
+21:56:29.578 [TestNG-tests-1] INFO  testCases.TS_001_SimpleForm - Clicked Get Checked Value
+21:56:47.793 [TestNG-tests-2] ERROR testCases.TS_001_SimpleForm - test failed
+21:56:47.856 [TestNG-tests-1] INFO  testCases.TS_001_SimpleForm - *** Finished TS_001_SimpleForm ***
+21:56:51.714 [TestNG-tests-2] INFO  testCases.TS_002_SliderDemo - *** Starting TS_002_SliderDemo ***
+21:56:52.122 [TestNG-tests-2] INFO  testCases.TS_002_SliderDemo - Clicked on Drag & Drop Sliders
+21:56:52.620 [TestNG-tests-2] INFO  testCases.TS_002_SliderDemo - *** Finished TS_002_SliderDemo ***
+21:56:56.066 [TestNG-tests-2] INFO  testCases.TS_003_FormDemo - *** Starting TS_003_FormDemo ***
+21:56:57.854 [TestNG-tests-2] INFO  testCases.TS_003_FormDemo - Clicked on Input Form Submit
+21:56:57.929 [TestNG-tests-2] INFO  testCases.TS_003_FormDemo - Clicked on Submit button
+21:56:59.389 [TestNG-tests-2] INFO  testCases.TS_003_FormDemo - *** Finished TS_003_FormDemo ***
+21:57:40.401 [TestNG-tests-1] INFO  testCases.TS_003_FormDemo - *** Starting TS_003_FormDemo ***
+21:57:43.028 [TestNG-tests-1] INFO  testCases.TS_003_FormDemo - Clicked on Input Form Submit
+21:57:43.088 [TestNG-tests-1] INFO  testCases.TS_003_FormDemo - Clicked on Submit button
+21:57:43.887 [TestNG-tests-1] INFO  testCases.TS_003_FormDemo - *** Finished TS_003_FormDemo ***
+21:57:54.820 [TestNG-tests-1] INFO  testCases.TS_001_SimpleForm - *** Starting TS_001_SimpleForm ***
+21:57:55.644 [TestNG-tests-1] INFO  testCases.TS_001_SimpleForm - Clicked on Simple Form Demo
+21:58:05.520 [TestNG-tests-2] INFO  testCases.TS_001_SimpleForm - *** Starting TS_001_SimpleForm ***
+21:58:07.619 [TestNG-tests-2] INFO  testCases.TS_001_SimpleForm - Clicked on Simple Form Demo
+21:58:07.852 [TestNG-tests-2] ERROR testCases.TS_001_SimpleForm - test failed
+21:58:09.370 [TestNG-tests-1] INFO  testCases.TS_002_SliderDemo - *** Starting TS_002_SliderDemo ***
+21:58:09.606 [TestNG-tests-1] INFO  testCases.TS_002_SliderDemo - Clicked on Drag & Drop Sliders
+21:58:10.112 [TestNG-tests-1] INFO  testCases.TS_002_SliderDemo - *** Finished TS_002_SliderDemo ***
+21:58:19.536 [TestNG-tests-1] INFO  testCases.TS_003_FormDemo - *** Starting TS_003_FormDemo ***
+21:58:19.908 [TestNG-tests-1] INFO  testCases.TS_003_FormDemo - Clicked on Input Form Submit
+21:58:20.025 [TestNG-tests-1] INFO  testCases.TS_003_FormDemo - Clicked on Submit button
+21:58:21.419 [TestNG-tests-1] INFO  testCases.TS_003_FormDemo - *** Finished TS_003_FormDemo ***
+21:58:45.225 [TestNG-tests-1] INFO  testCases.TS_001_SimpleForm - *** Starting TS_001_SimpleForm ***
+21:58:46.333 [TestNG-tests-1] INFO  testCases.TS_001_SimpleForm - Clicked on Simple Form Demo
+21:58:54.428 [TestNG-tests-2] INFO  testCases.TS_001_SimpleForm - *** Starting TS_001_SimpleForm ***
+21:58:55.175 [TestNG-tests-2] INFO  testCases.TS_001_SimpleForm - Clicked on Simple Form Demo
+21:58:55.420 [TestNG-tests-2] ERROR testCases.TS_001_SimpleForm - test failed
+21:58:56.987 [TestNG-tests-1] INFO  testCases.TS_002_SliderDemo - *** Starting TS_002_SliderDemo ***
+21:58:57.273 [TestNG-tests-1] INFO  testCases.TS_002_SliderDemo - Clicked on Drag & Drop Sliders
+21:58:57.767 [TestNG-tests-1] INFO  testCases.TS_002_SliderDemo - *** Finished TS_002_SliderDemo ***
+21:58:59.304 [TestNG-tests-1] INFO  testCases.TS_003_FormDemo - *** Starting TS_003_FormDemo ***
+21:58:59.710 [TestNG-tests-1] INFO  testCases.TS_003_FormDemo - Clicked on Input Form Submit
+21:58:59.787 [TestNG-tests-1] INFO  testCases.TS_003_FormDemo - Clicked on Submit button
+21:59:00.617 [TestNG-tests-1] INFO  testCases.TS_003_FormDemo - *** Finished TS_003_FormDemo ***
+22:01:27.142 [TestNG-tests-2] INFO  testCases.TS_001_SimpleForm - *** Starting TS_001_SimpleForm ***
+22:01:27.722 [TestNG-tests-2] INFO  testCases.TS_001_SimpleForm - Clicked on Simple Form Demo
+22:01:30.886 [TestNG-tests-2] INFO  testCases.TS_001_SimpleForm - Clicked Get Checked Value
+22:01:30.938 [TestNG-tests-2] INFO  testCases.TS_001_SimpleForm - *** Finished TS_001_SimpleForm ***
+22:01:41.640 [TestNG-tests-1] INFO  testCases.TS_002_SliderDemo - *** Starting TS_002_SliderDemo ***
+22:01:41.641 [TestNG-tests-2] INFO  testCases.TS_002_SliderDemo - *** Starting TS_002_SliderDemo ***
+22:01:41.855 [TestNG-tests-2] INFO  testCases.TS_002_SliderDemo - Clicked on Drag & Drop Sliders
+22:01:41.857 [TestNG-tests-1] ERROR testCases.TS_002_SliderDemo - test failed
+22:01:44.501 [TestNG-tests-1] INFO  testCases.TS_003_FormDemo - *** Starting TS_003_FormDemo ***
+22:01:45.402 [TestNG-tests-1] INFO  testCases.TS_003_FormDemo - Clicked on Input Form Submit
+22:01:45.486 [TestNG-tests-1] INFO  testCases.TS_003_FormDemo - Clicked on Submit button
+22:01:46.452 [TestNG-tests-1] INFO  testCases.TS_003_FormDemo - *** Finished TS_003_FormDemo ***
+22:02:37.321 [TestNG-tests-2] INFO  testCases.TS_001_SimpleForm - *** Starting TS_001_SimpleForm ***
+22:02:41.028 [TestNG-tests-2] INFO  testCases.TS_001_SimpleForm - Clicked on Simple Form Demo
+22:02:44.232 [TestNG-tests-2] INFO  testCases.TS_001_SimpleForm - Clicked Get Checked Value
+22:02:44.281 [TestNG-tests-2] INFO  testCases.TS_001_SimpleForm - *** Finished TS_001_SimpleForm ***
+22:02:50.347 [TestNG-tests-1] INFO  testCases.TS_001_SimpleForm - *** Starting TS_001_SimpleForm ***
+22:02:50.348 [TestNG-tests-2] INFO  testCases.TS_002_SliderDemo - *** Starting TS_002_SliderDemo ***
+22:02:52.051 [TestNG-tests-1] INFO  testCases.TS_001_SimpleForm - Clicked on Simple Form Demo
+22:02:52.068 [TestNG-tests-2] ERROR testCases.TS_002_SliderDemo - test failed
+22:02:52.622 [TestNG-tests-1] ERROR testCases.TS_001_SimpleForm - test failed
+22:02:56.773 [TestNG-tests-2] INFO  testCases.TS_003_FormDemo - *** Starting TS_003_FormDemo ***
+22:02:57.149 [TestNG-tests-2] INFO  testCases.TS_003_FormDemo - Clicked on Input Form Submit
+22:02:57.219 [TestNG-tests-2] INFO  testCases.TS_003_FormDemo - Clicked on Submit button
+22:02:58.542 [TestNG-tests-2] INFO  testCases.TS_003_FormDemo - *** Finished TS_003_FormDemo ***
+22:04:09.790 [TestNG-tests-2] INFO  testCases.TS_001_SimpleForm - *** Starting TS_001_SimpleForm ***
+22:04:10.648 [TestNG-tests-2] INFO  testCases.TS_001_SimpleForm - Clicked on Simple Form Demo
+22:04:10.657 [TestNG-tests-1] INFO  testCases.TS_001_SimpleForm - *** Starting TS_001_SimpleForm ***
+22:04:30.688 [TestNG-tests-1] ERROR testCases.TS_001_SimpleForm - test failed
+22:04:32.923 [TestNG-tests-1] INFO  testCases.TS_002_SliderDemo - *** Starting TS_002_SliderDemo ***
+22:04:33.171 [TestNG-tests-1] INFO  testCases.TS_002_SliderDemo - Clicked on Drag & Drop Sliders
+22:04:34.006 [TestNG-tests-2] INFO  testCases.TS_001_SimpleForm - Clicked Get Checked Value
+22:04:37.738 [TestNG-tests-1] INFO  testCases.TS_003_FormDemo - *** Starting TS_003_FormDemo ***
+22:04:38.128 [TestNG-tests-1] INFO  testCases.TS_003_FormDemo - Clicked on Input Form Submit
+22:04:38.207 [TestNG-tests-1] INFO  testCases.TS_003_FormDemo - Clicked on Submit button
+22:04:39.039 [TestNG-tests-1] INFO  testCases.TS_003_FormDemo - *** Finished TS_003_FormDemo ***
+22:07:59.344 [TestNG-tests-2] INFO  testCases.TS_001_SimpleForm - *** Starting TS_001_SimpleForm ***
+22:08:01.080 [TestNG-tests-2] INFO  testCases.TS_001_SimpleForm - Clicked on Simple Form Demo
+22:08:04.248 [TestNG-tests-2] INFO  testCases.TS_001_SimpleForm - Clicked Get Checked Value
+22:08:04.294 [TestNG-tests-2] INFO  testCases.TS_001_SimpleForm - *** Finished TS_001_SimpleForm ***
+22:08:17.574 [TestNG-tests-1] INFO  testCases.TS_002_SliderDemo - *** Starting TS_002_SliderDemo ***
+22:08:17.812 [TestNG-tests-1] INFO  testCases.TS_002_SliderDemo - Clicked on Drag & Drop Sliders
+22:08:18.373 [TestNG-tests-1] INFO  testCases.TS_002_SliderDemo - *** Finished TS_002_SliderDemo ***
+22:08:20.226 [TestNG-tests-1] INFO  testCases.TS_003_FormDemo - *** Starting TS_003_FormDemo ***
+22:08:20.905 [TestNG-tests-1] INFO  testCases.TS_003_FormDemo - Clicked on Input Form Submit
+22:08:20.985 [TestNG-tests-1] INFO  testCases.TS_003_FormDemo - Clicked on Submit button
+22:08:21.892 [TestNG-tests-1] INFO  testCases.TS_003_FormDemo - *** Finished TS_003_FormDemo ***
+22:09:44.851 [TestNG-tests-1] INFO  testCases.TS_001_SimpleForm - *** Starting TS_001_SimpleForm ***
+22:09:46.218 [TestNG-tests-1] INFO  testCases.TS_001_SimpleForm - Clicked on Simple Form Demo
+22:09:46.335 [TestNG-tests-2] INFO  testCases.TS_001_SimpleForm - *** Starting TS_001_SimpleForm ***
+22:09:53.561 [TestNG-tests-2] INFO  testCases.TS_001_SimpleForm - Clicked on Simple Form Demo
+22:09:53.772 [TestNG-tests-2] ERROR testCases.TS_001_SimpleForm - test failed
+22:09:55.224 [TestNG-tests-1] INFO  testCases.TS_002_SliderDemo - *** Starting TS_002_SliderDemo ***
+22:09:55.441 [TestNG-tests-1] INFO  testCases.TS_002_SliderDemo - Clicked on Drag & Drop Sliders
+22:09:55.931 [TestNG-tests-1] INFO  testCases.TS_002_SliderDemo - *** Finished TS_002_SliderDemo ***
+22:09:59.962 [TestNG-tests-1] INFO  testCases.TS_003_FormDemo - *** Starting TS_003_FormDemo ***
+22:10:01.143 [TestNG-tests-1] INFO  testCases.TS_003_FormDemo - Clicked on Input Form Submit
+22:10:01.209 [TestNG-tests-1] INFO  testCases.TS_003_FormDemo - Clicked on Submit button
+22:10:02.272 [TestNG-tests-1] INFO  testCases.TS_003_FormDemo - *** Finished TS_003_FormDemo ***
+22:11:41.962 [TestNG-tests-1] INFO  testCases.TS_001_SimpleForm - *** Starting TS_001_SimpleForm ***
+22:11:45.016 [TestNG-tests-1] INFO  testCases.TS_001_SimpleForm - Clicked on Simple Form Demo
+22:11:48.986 [TestNG-tests-2] INFO  testCases.TS_001_SimpleForm - *** Starting TS_001_SimpleForm ***
+22:12:16.797 [TestNG-tests-2] INFO  testCases.TS_001_SimpleForm - Clicked on Simple Form Demo
+22:12:20.449 [TestNG-tests-1] INFO  testCases.TS_002_SliderDemo - *** Starting TS_002_SliderDemo ***
+22:12:20.658 [TestNG-tests-1] ERROR testCases.TS_002_SliderDemo - test failed
+22:12:26.322 [TestNG-tests-2] INFO  testCases.TS_002_SliderDemo - *** Starting TS_002_SliderDemo ***
+22:12:26.838 [TestNG-tests-2] INFO  testCases.TS_002_SliderDemo - Clicked on Drag & Drop Sliders
+22:12:27.355 [TestNG-tests-2] INFO  testCases.TS_002_SliderDemo - *** Finished TS_002_SliderDemo ***
+22:12:30.830 [TestNG-tests-2] INFO  testCases.TS_003_FormDemo - *** Starting TS_003_FormDemo ***
+22:12:31.412 [TestNG-tests-2] INFO  testCases.TS_003_FormDemo - Clicked on Input Form Submit
+22:12:31.480 [TestNG-tests-2] INFO  testCases.TS_003_FormDemo - Clicked on Submit button
+22:12:32.702 [TestNG-tests-2] INFO  testCases.TS_003_FormDemo - *** Finished TS_003_FormDemo ***
+22:13:31.000 [TestNG-tests-1] INFO  testCases.TS_001_SimpleForm - *** Starting TS_001_SimpleForm ***
+22:13:31.605 [TestNG-tests-1] INFO  testCases.TS_001_SimpleForm - Clicked on Simple Form Demo
+22:13:34.868 [TestNG-tests-2] INFO  testCases.TS_001_SimpleForm - *** Starting TS_001_SimpleForm ***
+22:13:36.158 [TestNG-tests-2] INFO  testCases.TS_001_SimpleForm - Clicked on Simple Form Demo
+22:13:36.792 [TestNG-tests-1] INFO  testCases.TS_001_SimpleForm - Clicked Get Checked Value
+22:13:36.830 [TestNG-tests-1] INFO  testCases.TS_001_SimpleForm - *** Finished TS_001_SimpleForm ***
+22:13:38.348 [TestNG-tests-2] ERROR testCases.TS_001_SimpleForm - test failed
+22:13:49.766 [TestNG-tests-1] INFO  testCases.TS_003_FormDemo - *** Starting TS_003_FormDemo ***
+22:13:50.107 [TestNG-tests-1] INFO  testCases.TS_003_FormDemo - Clicked on Input Form Submit
+22:13:50.180 [TestNG-tests-1] INFO  testCases.TS_003_FormDemo - Clicked on Submit button
+22:13:51.448 [TestNG-tests-2] INFO  testCases.TS_002_SliderDemo - *** Starting TS_002_SliderDemo ***
+22:13:51.713 [TestNG-tests-1] INFO  testCases.TS_003_FormDemo - *** Finished TS_003_FormDemo ***
+22:13:51.742 [TestNG-tests-2] INFO  testCases.TS_002_SliderDemo - Clicked on Drag & Drop Sliders
+22:13:51.905 [TestNG-tests-2] ERROR testCases.TS_002_SliderDemo - test failed
+22:17:10.159 [TestNG-tests-2] INFO  testCases.TS_001_SimpleForm - *** Starting TS_001_SimpleForm ***
+22:17:11.374 [TestNG-tests-2] INFO  testCases.TS_001_SimpleForm - Clicked on Simple Form Demo
+22:17:16.586 [TestNG-tests-2] INFO  testCases.TS_001_SimpleForm - Clicked Get Checked Value
+22:17:16.610 [TestNG-tests-2] INFO  testCases.TS_001_SimpleForm - *** Finished TS_001_SimpleForm ***
+22:17:16.661 [TestNG-tests-1] INFO  testCases.TS_001_SimpleForm - *** Starting TS_001_SimpleForm ***
+22:17:16.982 [TestNG-tests-1] ERROR testCases.TS_001_SimpleForm - test failed
+22:17:24.378 [TestNG-tests-2] INFO  testCases.TS_002_SliderDemo - *** Starting TS_002_SliderDemo ***
+22:17:24.628 [TestNG-tests-2] INFO  testCases.TS_002_SliderDemo - Clicked on Drag & Drop Sliders
+22:17:25.133 [TestNG-tests-2] INFO  testCases.TS_002_SliderDemo - *** Finished TS_002_SliderDemo ***
+22:17:31.731 [TestNG-tests-2] INFO  testCases.TS_003_FormDemo - *** Starting TS_003_FormDemo ***
+22:17:32.946 [TestNG-tests-2] INFO  testCases.TS_003_FormDemo - Clicked on Input Form Submit
+22:17:33.016 [TestNG-tests-2] INFO  testCases.TS_003_FormDemo - Clicked on Submit button
+22:17:34.282 [TestNG-tests-2] INFO  testCases.TS_003_FormDemo - *** Finished TS_003_FormDemo ***
+22:18:20.497 [TestNG-tests-1] INFO  testCases.TS_001_SimpleForm - *** Starting TS_001_SimpleForm ***
+22:18:22.452 [TestNG-tests-1] INFO  testCases.TS_001_SimpleForm - Clicked on Simple Form Demo
+22:18:24.221 [TestNG-tests-2] INFO  testCases.TS_001_SimpleForm - *** Starting TS_001_SimpleForm ***
+22:18:25.384 [TestNG-tests-2] INFO  testCases.TS_001_SimpleForm - Clicked on Simple Form Demo
+22:18:25.637 [TestNG-tests-2] ERROR testCases.TS_001_SimpleForm - test failed
+22:18:33.704 [TestNG-tests-1] INFO  testCases.TS_002_SliderDemo - *** Starting TS_002_SliderDemo ***
+22:18:34.004 [TestNG-tests-1] INFO  testCases.TS_002_SliderDemo - Clicked on Drag & Drop Sliders
+22:18:34.632 [TestNG-tests-1] INFO  testCases.TS_002_SliderDemo - *** Finished TS_002_SliderDemo ***
+22:18:41.721 [TestNG-tests-1] INFO  testCases.TS_003_FormDemo - *** Starting TS_003_FormDemo ***
+22:18:43.938 [TestNG-tests-1] INFO  testCases.TS_003_FormDemo - Clicked on Input Form Submit
+22:18:44.011 [TestNG-tests-1] INFO  testCases.TS_003_FormDemo - Clicked on Submit button
+22:18:44.831 [TestNG-tests-1] INFO  testCases.TS_003_FormDemo - *** Finished TS_003_FormDemo ***
+22:19:47.639 [TestNG-tests-1] INFO  testCases.TS_001_SimpleForm - *** Starting TS_001_SimpleForm ***
+22:19:47.639 [TestNG-tests-2] INFO  testCases.TS_001_SimpleForm - *** Starting TS_001_SimpleForm ***
+22:19:48.523 [TestNG-tests-1] INFO  testCases.TS_001_SimpleForm - Clicked on Simple Form Demo
+22:19:48.537 [TestNG-tests-2] ERROR testCases.TS_001_SimpleForm - test failed
+22:19:50.879 [TestNG-tests-1] ERROR testCases.TS_001_SimpleForm - test failed
+22:19:55.214 [TestNG-tests-2] INFO  testCases.TS_002_SliderDemo - *** Starting TS_002_SliderDemo ***
+22:20:02.465 [TestNG-tests-2] INFO  testCases.TS_002_SliderDemo - Clicked on Drag & Drop Sliders
+22:20:03.104 [TestNG-tests-2] INFO  testCases.TS_002_SliderDemo - *** Finished TS_002_SliderDemo ***
+22:20:09.391 [TestNG-tests-2] INFO  testCases.TS_003_FormDemo - *** Starting TS_003_FormDemo ***
+22:20:09.765 [TestNG-tests-2] INFO  testCases.TS_003_FormDemo - Clicked on Input Form Submit
+22:20:09.836 [TestNG-tests-2] INFO  testCases.TS_003_FormDemo - Clicked on Submit button
+22:20:10.961 [TestNG-tests-2] INFO  testCases.TS_003_FormDemo - *** Finished TS_003_FormDemo ***
+22:21:10.606 [main] INFO  testCases.TS_001_SimpleForm - *** Starting TS_001_SimpleForm ***
+22:21:10.961 [main] INFO  testCases.TS_001_SimpleForm - Clicked on Simple Form Demo
+22:21:16.174 [main] INFO  testCases.TS_001_SimpleForm - Clicked Get Checked Value
+22:21:16.205 [main] INFO  testCases.TS_001_SimpleForm - *** Finished TS_001_SimpleForm ***
+22:21:20.839 [main] INFO  testCases.TS_002_SliderDemo - *** Starting TS_002_SliderDemo ***
+22:21:21.146 [main] INFO  testCases.TS_002_SliderDemo - Clicked on Drag & Drop Sliders
+22:21:21.632 [main] INFO  testCases.TS_002_SliderDemo - *** Finished TS_002_SliderDemo ***
+22:21:28.405 [main] INFO  testCases.TS_003_FormDemo - *** Starting TS_003_FormDemo ***
+22:21:29.066 [main] INFO  testCases.TS_003_FormDemo - Clicked on Input Form Submit
+22:21:29.152 [main] INFO  testCases.TS_003_FormDemo - Clicked on Submit button
+22:21:30.248 [main] INFO  testCases.TS_003_FormDemo - *** Finished TS_003_FormDemo ***
+22:21:37.014 [main] INFO  testCases.TS_001_SimpleForm - *** Starting TS_001_SimpleForm ***
+22:21:37.803 [main] INFO  testCases.TS_001_SimpleForm - Clicked on Simple Form Demo
+22:21:42.988 [main] INFO  testCases.TS_001_SimpleForm - Clicked Get Checked Value
+22:21:43.035 [main] INFO  testCases.TS_001_SimpleForm - *** Finished TS_001_SimpleForm ***
+22:21:49.986 [main] INFO  testCases.TS_002_SliderDemo - *** Starting TS_002_SliderDemo ***
+22:21:50.250 [main] INFO  testCases.TS_002_SliderDemo - Clicked on Drag & Drop Sliders
+22:21:50.748 [main] INFO  testCases.TS_002_SliderDemo - *** Finished TS_002_SliderDemo ***
+22:21:57.167 [main] INFO  testCases.TS_003_FormDemo - *** Starting TS_003_FormDemo ***
+22:21:57.459 [main] INFO  testCases.TS_003_FormDemo - Clicked on Input Form Submit
+22:21:57.516 [main] INFO  testCases.TS_003_FormDemo - Clicked on Submit button
+22:21:58.265 [main] INFO  testCases.TS_003_FormDemo - *** Finished TS_003_FormDemo ***
+22:22:38.631 [TestNG-tests-1] INFO  testCases.TS_001_SimpleForm - *** Starting TS_001_SimpleForm ***
+22:22:39.650 [TestNG-tests-2] INFO  testCases.TS_001_SimpleForm - *** Starting TS_001_SimpleForm ***
+22:22:39.851 [TestNG-tests-1] INFO  testCases.TS_001_SimpleForm - Clicked on Simple Form Demo
+22:22:40.187 [TestNG-tests-2] INFO  testCases.TS_001_SimpleForm - Clicked on Simple Form Demo
+22:22:49.398 [TestNG-tests-1] INFO  testCases.TS_001_SimpleForm - Clicked Get Checked Value
+22:22:49.446 [TestNG-tests-2] INFO  testCases.TS_001_SimpleForm - Clicked Get Checked Value
+22:22:54.983 [TestNG-tests-1] INFO  testCases.TS_002_SliderDemo - *** Starting TS_002_SliderDemo ***
+22:22:57.060 [TestNG-tests-2] INFO  testCases.TS_002_SliderDemo - *** Starting TS_002_SliderDemo ***
+22:22:57.537 [TestNG-tests-2] INFO  testCases.TS_002_SliderDemo - Clicked on Drag & Drop Sliders
+22:22:58.012 [TestNG-tests-2] INFO  testCases.TS_002_SliderDemo - *** Finished TS_002_SliderDemo ***
+22:23:02.863 [TestNG-tests-1] INFO  testCases.TS_002_SliderDemo - Clicked on Drag & Drop Sliders
+22:23:02.878 [TestNG-tests-1] ERROR testCases.TS_002_SliderDemo - test failed
+22:23:04.623 [TestNG-tests-2] INFO  testCases.TS_003_FormDemo - *** Starting TS_003_FormDemo ***
+22:23:06.628 [TestNG-tests-2] INFO  testCases.TS_003_FormDemo - Clicked on Input Form Submit
+22:23:06.701 [TestNG-tests-2] INFO  testCases.TS_003_FormDemo - Clicked on Submit button
+22:23:08.287 [TestNG-tests-2] INFO  testCases.TS_003_FormDemo - *** Finished TS_003_FormDemo ***
+22:23:56.993 [TestNG-tests-1] INFO  testCases.TS_001_SimpleForm - *** Starting TS_001_SimpleForm ***
+22:23:58.220 [TestNG-tests-2] INFO  testCases.TS_001_SimpleForm - *** Starting TS_001_SimpleForm ***
+22:23:58.557 [TestNG-tests-2] INFO  testCases.TS_001_SimpleForm - Clicked on Simple Form Demo
+22:23:58.954 [TestNG-tests-1] INFO  testCases.TS_001_SimpleForm - Clicked on Simple Form Demo
+22:24:07.754 [TestNG-tests-2] INFO  testCases.TS_001_SimpleForm - Clicked Get Checked Value
+22:24:08.099 [TestNG-tests-1] INFO  testCases.TS_001_SimpleForm - Clicked Get Checked Value
+22:24:15.024 [TestNG-tests-2] INFO  testCases.TS_002_SliderDemo - *** Starting TS_002_SliderDemo ***
+22:24:15.209 [TestNG-tests-2] INFO  testCases.TS_002_SliderDemo - Clicked on Drag & Drop Sliders
+22:24:15.721 [TestNG-tests-2] INFO  testCases.TS_002_SliderDemo - *** Finished TS_002_SliderDemo ***
+22:24:21.812 [TestNG-tests-2] INFO  testCases.TS_003_FormDemo - *** Starting TS_003_FormDemo ***
+22:24:25.865 [TestNG-tests-2] INFO  testCases.TS_003_FormDemo - Clicked on Input Form Submit
+22:24:25.928 [TestNG-tests-2] INFO  testCases.TS_003_FormDemo - Clicked on Submit button
+22:24:26.956 [TestNG-tests-2] INFO  testCases.TS_003_FormDemo - *** Finished TS_003_FormDemo ***
+22:24:55.422 [main] INFO  testCases.TS_001_SimpleForm - *** Starting TS_001_SimpleForm ***
+22:25:02.763 [main] INFO  testCases.TS_001_SimpleForm - Clicked on Simple Form Demo
+22:25:11.975 [main] INFO  testCases.TS_001_SimpleForm - Clicked Get Checked Value
+22:25:12.013 [main] INFO  testCases.TS_001_SimpleForm - *** Finished TS_001_SimpleForm ***
+22:25:18.637 [main] INFO  testCases.TS_002_SliderDemo - *** Starting TS_002_SliderDemo ***
+22:25:20.183 [main] INFO  testCases.TS_002_SliderDemo - Clicked on Drag & Drop Sliders
+22:25:20.753 [main] INFO  testCases.TS_002_SliderDemo - *** Finished TS_002_SliderDemo ***
+22:25:27.871 [main] INFO  testCases.TS_003_FormDemo - *** Starting TS_003_FormDemo ***
+22:25:28.483 [main] INFO  testCases.TS_003_FormDemo - Clicked on Input Form Submit
+22:25:28.571 [main] INFO  testCases.TS_003_FormDemo - Clicked on Submit button
+22:25:29.539 [main] INFO  testCases.TS_003_FormDemo - *** Finished TS_003_FormDemo ***
+22:25:36.642 [main] INFO  testCases.TS_001_SimpleForm - *** Starting TS_001_SimpleForm ***
+22:25:40.489 [main] INFO  testCases.TS_001_SimpleForm - Clicked on Simple Form Demo
+22:25:49.713 [main] INFO  testCases.TS_001_SimpleForm - Clicked Get Checked Value
+22:25:49.750 [main] INFO  testCases.TS_001_SimpleForm - *** Finished TS_001_SimpleForm ***
+22:25:56.248 [main] INFO  testCases.TS_002_SliderDemo - *** Starting TS_002_SliderDemo ***
+22:25:56.475 [main] INFO  testCases.TS_002_SliderDemo - Clicked on Drag & Drop Sliders
+22:25:56.931 [main] INFO  testCases.TS_002_SliderDemo - *** Finished TS_002_SliderDemo ***
+22:26:03.550 [main] INFO  testCases.TS_003_FormDemo - *** Starting TS_003_FormDemo ***
+22:26:03.911 [main] INFO  testCases.TS_003_FormDemo - Clicked on Input Form Submit
+22:26:03.974 [main] INFO  testCases.TS_003_FormDemo - Clicked on Submit button
+22:26:04.903 [main] INFO  testCases.TS_003_FormDemo - *** Finished TS_003_FormDemo ***
+22:27:46.699 [TestNG-tests-2] INFO  testCases.TS_001_SimpleForm - *** Starting TS_001_SimpleForm ***
+22:27:49.066 [TestNG-tests-2] INFO  testCases.TS_001_SimpleForm - Clicked on Simple Form Demo
+22:27:50.195 [TestNG-tests-1] INFO  testCases.TS_001_SimpleForm - *** Starting TS_001_SimpleForm ***
+22:28:10.251 [TestNG-tests-1] ERROR testCases.TS_001_SimpleForm - test failed
+22:28:15.378 [TestNG-tests-1] INFO  testCases.TS_002_SliderDemo - *** Starting TS_002_SliderDemo ***
+22:28:15.628 [TestNG-tests-1] INFO  testCases.TS_002_SliderDemo - Clicked on Drag & Drop Sliders
+22:28:16.111 [TestNG-tests-1] INFO  testCases.TS_002_SliderDemo - *** Finished TS_002_SliderDemo ***
+22:28:17.610 [TestNG-tests-2] INFO  testCases.TS_001_SimpleForm - Clicked Get Checked Value
+22:28:20.793 [TestNG-tests-1] INFO  testCases.TS_003_FormDemo - *** Starting TS_003_FormDemo ***
+22:28:21.165 [TestNG-tests-1] INFO  testCases.TS_003_FormDemo - Clicked on Input Form Submit
+22:28:21.252 [TestNG-tests-1] INFO  testCases.TS_003_FormDemo - Clicked on Submit button
+22:28:22.104 [TestNG-tests-1] INFO  testCases.TS_003_FormDemo - *** Finished TS_003_FormDemo ***
+22:30:02.884 [TestNG-test=chromeTest-3] INFO  testCases.TS_003_FormDemo - *** Starting TS_003_FormDemo ***
+22:30:02.884 [TestNG-test=chromeTest-1] INFO  testCases.TS_001_SimpleForm - *** Starting TS_001_SimpleForm ***
+22:30:02.884 [TestNG-test=chromeTest-2] INFO  testCases.TS_002_SliderDemo - *** Starting TS_002_SliderDemo ***
+22:30:04.925 [TestNG-test=chromeTest-1] INFO  testCases.TS_001_SimpleForm - Clicked on Simple Form Demo
+22:30:04.937 [TestNG-test=chromeTest-3] ERROR testCases.TS_003_FormDemo - test failed
+22:30:04.937 [TestNG-test=chromeTest-2] ERROR testCases.TS_002_SliderDemo - test failed
+22:30:08.944 [TestNG-test=chromeTest-1] ERROR testCases.TS_001_SimpleForm - test failed
+22:30:16.572 [TestNG-test=edgeTest-2] INFO  testCases.TS_002_SliderDemo - *** Starting TS_002_SliderDemo ***
+22:30:16.574 [TestNG-test=edgeTest-3] INFO  testCases.TS_003_FormDemo - *** Starting TS_003_FormDemo ***
+22:30:16.724 [TestNG-test=edgeTest-1] INFO  testCases.TS_001_SimpleForm - *** Starting TS_001_SimpleForm ***
+22:30:34.281 [TestNG-test=edgeTest-2] INFO  testCases.TS_002_SliderDemo - Clicked on Drag & Drop Sliders
+22:30:34.285 [TestNG-test=edgeTest-3] ERROR testCases.TS_003_FormDemo - test failed
+22:30:54.302 [TestNG-test=edgeTest-1] ERROR testCases.TS_001_SimpleForm - test failed
+22:32:08.604 [TestNG-tests-1] INFO  testCases.TS_001_SimpleForm - *** Starting TS_001_SimpleForm ***
+22:32:09.210 [TestNG-tests-1] INFO  testCases.TS_001_SimpleForm - Clicked on Simple Form Demo
+22:32:12.118 [TestNG-tests-2] INFO  testCases.TS_001_SimpleForm - *** Starting TS_001_SimpleForm ***
+22:32:12.737 [TestNG-tests-2] INFO  testCases.TS_001_SimpleForm - Clicked on Simple Form Demo
+22:32:20.546 [TestNG-tests-1] INFO  testCases.TS_001_SimpleForm - Clicked Get Checked Value
+22:32:23.934 [TestNG-tests-2] INFO  testCases.TS_001_SimpleForm - Clicked Get Checked Value
+22:33:09.971 [main] INFO  testCases.TS_001_SimpleForm - *** Starting TS_001_SimpleForm ***
+22:33:10.801 [main] INFO  testCases.TS_001_SimpleForm - Clicked on Simple Form Demo
+22:33:22.022 [main] INFO  testCases.TS_001_SimpleForm - Clicked Get Checked Value
+22:33:22.054 [main] INFO  testCases.TS_001_SimpleForm - *** Finished TS_001_SimpleForm ***
+22:33:27.045 [main] INFO  testCases.TS_002_SliderDemo - *** Starting TS_002_SliderDemo ***
+22:33:27.410 [main] INFO  testCases.TS_002_SliderDemo - Clicked on Drag & Drop Sliders
+22:33:27.943 [main] INFO  testCases.TS_002_SliderDemo - *** Finished TS_002_SliderDemo ***
+22:33:34.831 [main] INFO  testCases.TS_003_FormDemo - *** Starting TS_003_FormDemo ***
+22:33:35.222 [main] INFO  testCases.TS_003_FormDemo - Clicked on Input Form Submit
+22:33:35.327 [main] INFO  testCases.TS_003_FormDemo - Clicked on Submit button
+22:33:36.339 [main] INFO  testCases.TS_003_FormDemo - *** Finished TS_003_FormDemo ***
+22:34:16.357 [main] INFO  testCases.TS_001_SimpleForm - *** Starting TS_001_SimpleForm ***
+22:34:17.165 [main] INFO  testCases.TS_001_SimpleForm - Clicked on Simple Form Demo
+22:34:28.358 [main] INFO  testCases.TS_001_SimpleForm - Clicked Get Checked Value
+22:34:28.393 [main] INFO  testCases.TS_001_SimpleForm - *** Finished TS_001_SimpleForm ***
+22:34:34.933 [main] INFO  testCases.TS_002_SliderDemo - *** Starting TS_002_SliderDemo ***
+22:34:35.146 [main] INFO  testCases.TS_002_SliderDemo - Clicked on Drag & Drop Sliders
+22:34:35.609 [main] INFO  testCases.TS_002_SliderDemo - *** Finished TS_002_SliderDemo ***
+22:35:01.630 [main] INFO  testCases.TS_003_FormDemo - *** Starting TS_003_FormDemo ***
+22:35:02.762 [main] INFO  testCases.TS_003_FormDemo - Clicked on Input Form Submit
+22:35:02.836 [main] INFO  testCases.TS_003_FormDemo - Clicked on Submit button
+22:35:04.125 [main] INFO  testCases.TS_003_FormDemo - *** Finished TS_003_FormDemo ***
+22:39:28.880 [TestNG-tests-1] INFO  testCases.TS_001_SimpleForm - *** Starting TS_001_SimpleForm ***
+22:39:29.233 [TestNG-tests-1] INFO  testCases.TS_001_SimpleForm - Clicked on Simple Form Demo
+22:39:30.090 [TestNG-tests-2] INFO  testCases.TS_001_SimpleForm - *** Starting TS_001_SimpleForm ***
+22:39:30.495 [TestNG-tests-2] INFO  testCases.TS_001_SimpleForm - Clicked on Simple Form Demo
+22:39:40.491 [TestNG-tests-1] INFO  testCases.TS_001_SimpleForm - Clicked Get Checked Value
+22:39:41.658 [TestNG-tests-2] INFO  testCases.TS_001_SimpleForm - Clicked Get Checked Value
+22:39:45.897 [TestNG-tests-1] INFO  testCases.TS_002_SliderDemo - *** Starting TS_002_SliderDemo ***
+22:39:46.166 [TestNG-tests-1] INFO  testCases.TS_002_SliderDemo - Clicked on Drag & Drop Sliders
+22:39:46.720 [TestNG-tests-1] INFO  testCases.TS_002_SliderDemo - *** Finished TS_002_SliderDemo ***
+22:39:58.293 [TestNG-tests-1] INFO  testCases.TS_003_FormDemo - *** Starting TS_003_FormDemo ***
+22:39:58.931 [TestNG-tests-1] INFO  testCases.TS_003_FormDemo - Clicked on Input Form Submit
+22:39:59.034 [TestNG-tests-1] INFO  testCases.TS_003_FormDemo - Clicked on Submit button
+22:40:00.563 [TestNG-tests-1] INFO  testCases.TS_003_FormDemo - *** Finished TS_003_FormDemo ***
+22:40:47.950 [TestNG-tests-1] INFO  testCases.TS_001_SimpleForm - *** Starting TS_001_SimpleForm ***
+22:40:48.452 [TestNG-tests-1] INFO  testCases.TS_001_SimpleForm - Clicked on Simple Form Demo
+22:40:49.420 [TestNG-tests-2] INFO  testCases.TS_001_SimpleForm - *** Starting TS_001_SimpleForm ***
+22:40:50.284 [TestNG-tests-2] INFO  testCases.TS_001_SimpleForm - Clicked on Simple Form Demo
+22:40:59.725 [TestNG-tests-1] INFO  testCases.TS_001_SimpleForm - Clicked Get Checked Value
+22:41:01.465 [TestNG-tests-2] INFO  testCases.TS_001_SimpleForm - Clicked Get Checked Value
+22:41:04.944 [TestNG-tests-1] INFO  testCases.TS_002_SliderDemo - *** Starting TS_002_SliderDemo ***
+22:41:05.414 [TestNG-tests-1] INFO  testCases.TS_002_SliderDemo - Clicked on Drag & Drop Sliders
+22:41:05.906 [TestNG-tests-1] INFO  testCases.TS_002_SliderDemo - *** Finished TS_002_SliderDemo ***
+22:41:10.440 [TestNG-tests-1] INFO  testCases.TS_003_FormDemo - *** Starting TS_003_FormDemo ***
+22:41:10.992 [TestNG-tests-1] INFO  testCases.TS_003_FormDemo - Clicked on Input Form Submit
+22:41:11.072 [TestNG-tests-1] INFO  testCases.TS_003_FormDemo - Clicked on Submit button
+22:41:12.195 [TestNG-tests-1] INFO  testCases.TS_003_FormDemo - *** Finished TS_003_FormDemo ***
+22:52:18.642 [TestNG-tests-1] INFO  testCases.TS_001_SimpleForm - *** Starting TS_001_SimpleForm ***
+22:52:19.584 [TestNG-tests-1] INFO  testCases.TS_001_SimpleForm - Clicked on Simple Form Demo
+22:52:21.851 [TestNG-tests-2] INFO  testCases.TS_001_SimpleForm - *** Starting TS_001_SimpleForm ***
+22:52:22.184 [TestNG-tests-2] INFO  testCases.TS_001_SimpleForm - Clicked on Simple Form Demo
+22:52:22.462 [TestNG-tests-2] ERROR testCases.TS_001_SimpleForm - test failed
+22:52:28.760 [TestNG-tests-1] INFO  testCases.TS_002_SliderDemo - *** Starting TS_002_SliderDemo ***
+22:52:29.010 [TestNG-tests-1] INFO  testCases.TS_002_SliderDemo - Clicked on Drag & Drop Sliders
+22:52:29.652 [TestNG-tests-1] INFO  testCases.TS_002_SliderDemo - *** Finished TS_002_SliderDemo ***
+22:52:46.096 [TestNG-tests-1] INFO  testCases.TS_003_FormDemo - *** Starting TS_003_FormDemo ***
+22:52:47.572 [TestNG-tests-1] INFO  testCases.TS_003_FormDemo - Clicked on Input Form Submit
+22:52:47.668 [TestNG-tests-1] INFO  testCases.TS_003_FormDemo - Clicked on Submit button
+22:52:49.086 [TestNG-tests-1] INFO  testCases.TS_003_FormDemo - *** Finished TS_003_FormDemo ***
+22:55:05.883 [main] INFO  testCases.TS_001_SimpleForm - *** Starting TS_001_SimpleForm ***
+22:55:08.262 [main] INFO  testCases.TS_001_SimpleForm - Clicked on Simple Form Demo
+22:55:19.476 [main] INFO  testCases.TS_001_SimpleForm - Clicked Get Checked Value
+22:55:19.518 [main] INFO  testCases.TS_001_SimpleForm - *** Finished TS_001_SimpleForm ***
+22:55:24.157 [main] INFO  testCases.TS_002_SliderDemo - *** Starting TS_002_SliderDemo ***
+22:55:24.423 [main] INFO  testCases.TS_002_SliderDemo - Clicked on Drag & Drop Sliders
+22:55:24.940 [main] INFO  testCases.TS_002_SliderDemo - *** Finished TS_002_SliderDemo ***
+22:55:29.457 [main] INFO  testCases.TS_003_FormDemo - *** Starting TS_003_FormDemo ***
+22:55:29.834 [main] INFO  testCases.TS_003_FormDemo - Clicked on Input Form Submit
+22:55:29.914 [main] INFO  testCases.TS_003_FormDemo - Clicked on Submit button
+22:55:30.828 [main] INFO  testCases.TS_003_FormDemo - *** Finished TS_003_FormDemo ***
+22:55:38.053 [main] INFO  testCases.TS_001_SimpleForm - *** Starting TS_001_SimpleForm ***
+22:55:38.606 [main] INFO  testCases.TS_001_SimpleForm - Clicked on Simple Form Demo
+22:55:49.794 [main] INFO  testCases.TS_001_SimpleForm - Clicked Get Checked Value
+22:55:49.829 [main] INFO  testCases.TS_001_SimpleForm - *** Finished TS_001_SimpleForm ***
+22:55:55.932 [main] INFO  testCases.TS_002_SliderDemo - *** Starting TS_002_SliderDemo ***
+22:55:56.383 [main] INFO  testCases.TS_002_SliderDemo - Clicked on Drag & Drop Sliders
+22:55:56.849 [main] INFO  testCases.TS_002_SliderDemo - *** Finished TS_002_SliderDemo ***
+22:56:05.323 [main] INFO  testCases.TS_003_FormDemo - *** Starting TS_003_FormDemo ***
+22:56:05.914 [main] INFO  testCases.TS_003_FormDemo - Clicked on Input Form Submit
+22:56:06.013 [main] INFO  testCases.TS_003_FormDemo - Clicked on Submit button
+22:56:07.422 [main] INFO  testCases.TS_003_FormDemo - *** Finished TS_003_FormDemo ***
+22:57:32.511 [main] INFO  testCases.TS_001_SimpleForm - *** Starting TS_001_SimpleForm ***
+22:57:33.642 [main] INFO  testCases.TS_001_SimpleForm - Clicked on Simple Form Demo
+22:57:44.888 [main] INFO  testCases.TS_001_SimpleForm - Clicked Get Checked Value
+22:57:44.929 [main] INFO  testCases.TS_001_SimpleForm - *** Finished TS_001_SimpleForm ***
+22:57:49.837 [main] INFO  testCases.TS_002_SliderDemo - *** Starting TS_002_SliderDemo ***
+22:57:50.051 [main] INFO  testCases.TS_002_SliderDemo - Clicked on Drag & Drop Sliders
+22:57:50.567 [main] INFO  testCases.TS_002_SliderDemo - *** Finished TS_002_SliderDemo ***
+22:57:55.140 [main] INFO  testCases.TS_003_FormDemo - *** Starting TS_003_FormDemo ***
+22:57:55.659 [main] INFO  testCases.TS_003_FormDemo - Clicked on Input Form Submit
+22:57:55.739 [main] INFO  testCases.TS_003_FormDemo - Clicked on Submit button
+22:57:56.840 [main] INFO  testCases.TS_003_FormDemo - *** Finished TS_003_FormDemo ***
+22:58:06.425 [main] INFO  testCases.TS_001_SimpleForm - *** Starting TS_001_SimpleForm ***
+22:58:08.549 [main] INFO  testCases.TS_001_SimpleForm - Clicked on Simple Form Demo
+22:58:19.804 [main] INFO  testCases.TS_001_SimpleForm - Clicked Get Checked Value
+22:58:19.854 [main] INFO  testCases.TS_001_SimpleForm - *** Finished TS_001_SimpleForm ***
+22:58:26.223 [main] INFO  testCases.TS_002_SliderDemo - *** Starting TS_002_SliderDemo ***
+22:58:26.465 [main] INFO  testCases.TS_002_SliderDemo - Clicked on Drag & Drop Sliders
+22:58:26.916 [main] INFO  testCases.TS_002_SliderDemo - *** Finished TS_002_SliderDemo ***
+22:58:33.183 [main] INFO  testCases.TS_003_FormDemo - *** Starting TS_003_FormDemo ***
+22:58:33.540 [main] INFO  testCases.TS_003_FormDemo - Clicked on Input Form Submit
+22:58:33.602 [main] INFO  testCases.TS_003_FormDemo - Clicked on Submit button
+22:58:34.653 [main] INFO  testCases.TS_003_FormDemo - *** Finished TS_003_FormDemo ***
+23:01:06.953 [main] INFO  testCases.TS_001_SimpleForm - *** Starting TS_001_SimpleForm ***
+23:01:07.364 [main] INFO  testCases.TS_001_SimpleForm - Clicked on Simple Form Demo
+23:01:18.566 [main] INFO  testCases.TS_001_SimpleForm - Clicked Get Checked Value
+23:01:18.606 [main] INFO  testCases.TS_001_SimpleForm - *** Finished TS_001_SimpleForm ***
+23:01:23.312 [main] INFO  testCases.TS_002_SliderDemo - *** Starting TS_002_SliderDemo ***
+23:01:23.782 [main] INFO  testCases.TS_002_SliderDemo - Clicked on Drag & Drop Sliders
+23:01:24.334 [main] INFO  testCases.TS_002_SliderDemo - *** Finished TS_002_SliderDemo ***
+23:01:29.002 [main] INFO  testCases.TS_003_FormDemo - *** Starting TS_003_FormDemo ***
+23:01:29.348 [main] INFO  testCases.TS_003_FormDemo - Clicked on Input Form Submit
+23:01:29.473 [main] INFO  testCases.TS_003_FormDemo - Clicked on Submit button
+23:01:30.621 [main] INFO  testCases.TS_003_FormDemo - *** Finished TS_003_FormDemo ***
+23:02:09.429 [main] INFO  testCases.TS_001_SimpleForm - *** Starting TS_001_SimpleForm ***
+23:02:09.729 [main] INFO  testCases.TS_001_SimpleForm - Clicked on Simple Form Demo
+23:02:20.933 [main] INFO  testCases.TS_001_SimpleForm - Clicked Get Checked Value
+23:02:20.968 [main] INFO  testCases.TS_001_SimpleForm - *** Finished TS_001_SimpleForm ***
+23:02:25.488 [main] INFO  testCases.TS_002_SliderDemo - *** Starting TS_002_SliderDemo ***
+23:02:25.705 [main] INFO  testCases.TS_002_SliderDemo - Clicked on Drag & Drop Sliders
+23:02:26.217 [main] INFO  testCases.TS_002_SliderDemo - *** Finished TS_002_SliderDemo ***
+23:02:32.740 [main] INFO  testCases.TS_003_FormDemo - *** Starting TS_003_FormDemo ***
+23:02:33.068 [main] INFO  testCases.TS_003_FormDemo - Clicked on Input Form Submit
+23:02:33.169 [main] INFO  testCases.TS_003_FormDemo - Clicked on Submit button
+23:02:34.182 [main] INFO  testCases.TS_003_FormDemo - *** Finished TS_003_FormDemo ***

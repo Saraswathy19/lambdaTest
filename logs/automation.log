@@ -1,0 +1,55 @@
+23:02:41.027 [main] INFO  testCases.TS_001_SimpleForm - *** Starting TS_001_SimpleForm ***
+23:02:41.358 [main] INFO  testCases.TS_001_SimpleForm - Clicked on Simple Form Demo
+23:02:52.547 [main] INFO  testCases.TS_001_SimpleForm - Clicked Get Checked Value
+23:02:52.582 [main] INFO  testCases.TS_001_SimpleForm - *** Finished TS_001_SimpleForm ***
+23:02:58.872 [main] INFO  testCases.TS_002_SliderDemo - *** Starting TS_002_SliderDemo ***
+23:02:59.080 [main] INFO  testCases.TS_002_SliderDemo - Clicked on Drag & Drop Sliders
+23:02:59.573 [main] INFO  testCases.TS_002_SliderDemo - *** Finished TS_002_SliderDemo ***
+23:03:05.887 [main] INFO  testCases.TS_003_FormDemo - *** Starting TS_003_FormDemo ***
+23:03:06.176 [main] INFO  testCases.TS_003_FormDemo - Clicked on Input Form Submit
+23:03:06.249 [main] INFO  testCases.TS_003_FormDemo - Clicked on Submit button
+23:03:07.350 [main] INFO  testCases.TS_003_FormDemo - *** Finished TS_003_FormDemo ***
+23:04:01.373 [main] INFO  testCases.TS_001_SimpleForm - *** Starting TS_001_SimpleForm ***
+23:04:01.707 [main] INFO  testCases.TS_001_SimpleForm - Clicked on Simple Form Demo
+23:04:12.933 [main] INFO  testCases.TS_001_SimpleForm - Clicked Get Checked Value
+23:04:12.965 [main] INFO  testCases.TS_001_SimpleForm - *** Finished TS_001_SimpleForm ***
+23:04:17.795 [main] INFO  testCases.TS_002_SliderDemo - *** Starting TS_002_SliderDemo ***
+23:04:17.983 [main] INFO  testCases.TS_002_SliderDemo - Clicked on Drag & Drop Sliders
+23:04:18.516 [main] INFO  testCases.TS_002_SliderDemo - *** Finished TS_002_SliderDemo ***
+23:04:22.971 [main] INFO  testCases.TS_003_FormDemo - *** Starting TS_003_FormDemo ***
+23:04:23.316 [main] INFO  testCases.TS_003_FormDemo - Clicked on Input Form Submit
+23:04:23.407 [main] INFO  testCases.TS_003_FormDemo - Clicked on Submit button
+23:04:24.523 [main] INFO  testCases.TS_003_FormDemo - *** Finished TS_003_FormDemo ***
+23:04:32.285 [main] INFO  testCases.TS_001_SimpleForm - *** Starting TS_001_SimpleForm ***
+23:04:32.617 [main] INFO  testCases.TS_001_SimpleForm - Clicked on Simple Form Demo
+23:04:43.815 [main] INFO  testCases.TS_001_SimpleForm - Clicked Get Checked Value
+23:04:43.846 [main] INFO  testCases.TS_001_SimpleForm - *** Finished TS_001_SimpleForm ***
+23:04:50.287 [main] INFO  testCases.TS_002_SliderDemo - *** Starting TS_002_SliderDemo ***
+23:04:50.510 [main] INFO  testCases.TS_002_SliderDemo - Clicked on Drag & Drop Sliders
+23:04:50.977 [main] INFO  testCases.TS_002_SliderDemo - *** Finished TS_002_SliderDemo ***
+23:04:57.266 [main] INFO  testCases.TS_003_FormDemo - *** Starting TS_003_FormDemo ***
+23:04:57.567 [main] INFO  testCases.TS_003_FormDemo - Clicked on Input Form Submit
+23:04:57.639 [main] INFO  testCases.TS_003_FormDemo - Clicked on Submit button
+23:04:58.833 [main] INFO  testCases.TS_003_FormDemo - *** Finished TS_003_FormDemo ***
+23:06:20.217 [main] INFO  testCases.TS_001_SimpleForm - *** Starting TS_001_SimpleForm ***
+23:06:20.847 [main] INFO  testCases.TS_001_SimpleForm - Clicked on Simple Form Demo
+23:06:32.073 [main] INFO  testCases.TS_001_SimpleForm - Clicked Get Checked Value
+23:06:32.130 [main] INFO  testCases.TS_001_SimpleForm - *** Finished TS_001_SimpleForm ***
+23:06:36.901 [main] INFO  testCases.TS_002_SliderDemo - *** Starting TS_002_SliderDemo ***
+23:06:37.096 [main] INFO  testCases.TS_002_SliderDemo - Clicked on Drag & Drop Sliders
+23:06:37.593 [main] INFO  testCases.TS_002_SliderDemo - *** Finished TS_002_SliderDemo ***
+23:06:42.060 [main] INFO  testCases.TS_003_FormDemo - *** Starting TS_003_FormDemo ***
+23:06:42.380 [main] INFO  testCases.TS_003_FormDemo - Clicked on Input Form Submit
+23:06:42.459 [main] INFO  testCases.TS_003_FormDemo - Clicked on Submit button
+23:06:43.513 [main] INFO  testCases.TS_003_FormDemo - *** Finished TS_003_FormDemo ***
+23:06:50.378 [main] INFO  testCases.TS_001_SimpleForm - *** Starting TS_001_SimpleForm ***
+23:06:50.672 [main] INFO  testCases.TS_001_SimpleForm - Clicked on Simple Form Demo
+23:07:01.935 [main] INFO  testCases.TS_001_SimpleForm - Clicked Get Checked Value
+23:07:01.967 [main] INFO  testCases.TS_001_SimpleForm - *** Finished TS_001_SimpleForm ***
+23:07:08.306 [main] INFO  testCases.TS_002_SliderDemo - *** Starting TS_002_SliderDemo ***
+23:07:08.531 [main] INFO  testCases.TS_002_SliderDemo - Clicked on Drag & Drop Sliders
+23:07:09.004 [main] INFO  testCases.TS_002_SliderDemo - *** Finished TS_002_SliderDemo ***
+23:07:15.246 [main] INFO  testCases.TS_003_FormDemo - *** Starting TS_003_FormDemo ***
+23:07:15.858 [main] INFO  testCases.TS_003_FormDemo - Clicked on Input Form Submit
+23:07:15.932 [main] INFO  testCases.TS_003_FormDemo - Clicked on Submit button
+23:07:17.065 [main] INFO  testCases.TS_003_FormDemo - *** Finished TS_003_FormDemo ***
